@@ -1,2 +1,3 @@
 # SCinter
-A single call design paradigm for Tkinter
+A single call design paradigm for creating Tkinter GUI apps
+
